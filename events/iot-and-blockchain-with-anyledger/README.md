@@ -42,11 +42,14 @@ name: IoT & Blockchain with AnyLedger
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    At our event, Lorenzo Pieri will give you an introduction to the
-      problems facing the IoT-blockchain market today. He will also talk about
-      how AnyLedger aims to solve these problems in a decentralized manner.
-      The talk will last 20-30 minutes, and there will be room for as many
-      questions as you want to ask afterwards.
+    In this event we will answer questions like:
+Which benefits will the blockchain bring to the physical world?
+Which problems of IoT can be fixed using a blockchain stack?
+What is missing at the moment? 
+  -
+We will also outline how AnyLedger is solving existing problems in order to create an industry level infrastructure layer between connected devices and blockchains.
+  -
+  The talk will last 20-30 minutes, and there will be room for as many questions as you want to ask afterwards.
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
